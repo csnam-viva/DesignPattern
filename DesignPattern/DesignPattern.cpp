@@ -50,7 +50,7 @@ private:
     vector<Command*> Commands;
 };
 
-int main()
+int main_1()
 {
     std::cout << "-----------------------\n";
     CmdStack list;

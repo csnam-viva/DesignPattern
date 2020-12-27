@@ -4,3 +4,7 @@
 
 *.pdb
 /DesignPattern/Debug
+/x64/Debug/DesignPattern.exe
+/x64/Debug/DesignPattern.ilk
+/DesignPattern/x64/Debug
+/.vs/DesignPattern/v16
