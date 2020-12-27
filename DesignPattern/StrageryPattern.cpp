@@ -8,6 +8,7 @@
 //   모던 C++ 디자인 패턴
 //
 /// 참조 https://devjino.tistory.com/50 
+//  https://github.com/gilbutITbook/007028/blob/master/Behavioral/Strategy/strategy_static.cpp
 //----------------------------------------
 
 using namespace std;
