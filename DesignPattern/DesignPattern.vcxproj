@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AdpaterPattern.cpp" />
     <ClCompile Include="DesignPattern.cpp" />
     <ClCompile Include="StrageryPattern.cpp" />
   </ItemGroup>

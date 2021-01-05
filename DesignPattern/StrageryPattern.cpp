@@ -53,7 +53,7 @@ public:
 
 };
 
-int main()
+int main1()
 {
     std::cout << "-----------------------\n";
     
